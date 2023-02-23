@@ -41,7 +41,7 @@ namespace RegTest
             else
                 Console.WriteLine("invalid");
          
-              // Console.ReadLine();
+               Console.ReadLine();
         }
     }
 }
